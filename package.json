@@ -24,5 +24,10 @@
   ],
   "engines": {
     "clawhub": ">=0.9.0"
+  },
+  "openclaw": {
+    "extensions": {
+      "skills": ["skills/validate-product/SKILL.md"]
+    }
   }
 }
