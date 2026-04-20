@@ -1,0 +1,19 @@
+{
+  "name": "npd-validator",
+  "displayName": "NPD Validator",
+  "version": "1.0.0",
+  "description": "Multi-agent product validation pipeline with 8 specialized subagents",
+  "type": "code-plugin",
+  "author": "AutoSolutions.ai",
+  "license": "MIT",
+  "homepage": "https://github.com/autosolutionsai-didac/npd-validator-plugin",
+  "repository": "autosolutionsai-didac/npd-validator-plugin",
+  "entry": "skills/validate-product/SKILL.md",
+  "files": [
+    "skills/validate-product/SKILL.md",
+    "skills/npd-methodology/SKILL.md",
+    "agents/*.md",
+    "openclaw-install.sh",
+    "README.md"
+  ]
+}
