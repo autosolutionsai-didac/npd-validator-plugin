@@ -1,0 +1,28 @@
+{
+  "name": "npd-validator",
+  "displayName": "NPD Validator",
+  "version": "1.0.0",
+  "description": "Multi-agent product validation pipeline. Orchestrates 8 specialized subagents to evaluate new product concepts across market demand, competitive landscape, brand fit, commercial viability, and consumer trends — with adversarial challenge and consensus deliberation.",
+  "author": {
+    "name": "AutoSolutions.ai",
+    "url": "https://autosolutions.ai"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/autosolutionsai-didac/npd-validator-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/autosolutionsai-didac/npd-validator-plugin.git"
+  },
+  "keywords": [
+    "npd",
+    "product-validation",
+    "market-research",
+    "multi-agent",
+    "consumer-goods",
+    "beauty",
+    "cpg"
+  ],
+  "engines": {
+    "clawhub": ">=0.9.0"
+  }
+}
